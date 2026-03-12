@@ -38,9 +38,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kostyatrufanov06-sys&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostyatrufanov06-sys&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa"/>
 
 </p>
 
